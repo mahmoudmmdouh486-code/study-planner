@@ -1,0 +1,43 @@
+{
+  "name": "study-planner-grade-calculator",
+  "version": "1.0.0",
+  "description": "Study Planner - A comprehensive study management application",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "cs50x",
+    "final-project",
+    "study-planner",
+    "grade-calculator",
+    "web-application",
+    "html",
+    "css",
+    "javascript",
+    "education"
+  ],
+  "author": "Study Planner Developer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahmoudmmdouh486-code/study-planner"
+  },
+  "bugs": {
+    "url": "https://github.com/mahmoudmmdouh486-code/study-planner/issues"
+  },
+  "homepage": "https://github.com/mahmoudmmdouh486-code/study-planner#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ]
+}
